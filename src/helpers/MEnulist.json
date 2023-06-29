@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Amuse Bouche",
+    "image": "../../assets/menu/amusebouche.jpg",
+    "body": "sajian amuse-bouche adalah keripik ubi dengan tambahan keju atau sup kacang yang disajikan dalam cangkir espreso"
+  },
+  {
+    "id": 2,
+    "name": "Daging Bebek Bakar",
+    "image": "../../assets/menu/dagingBebek.jpg",
+    "body": "daging bebek guring dengan aroma manis."
+  },
+  {
+    "id": 3,
+    "name": "Hors d'oeuvres",
+    "image": "../../assets/menu/horsDovres.jpg",
+    "body": "Hors d'oeuvres adalah sajian pertama yang akan diberikan pada tamu. Hors d'oeuvres biasanya berupa makanan ringan yang bisa dipegang langsung dengan tangan."
+  },
+  {
+    "id": 4,
+    "name": "sushi",
+    "image": "../../assets/menu/mentah.jpg",
+    "body": "olahan ikan yang disajikan mentah , makan yang berasal dari jepang"
+  },
+  {
+    "id": 5,
+    "name": "salad",
+    "image": "../../assets/menu/saladSayur.jpeg",
+    "body": "salad yang berisikan sayur dengan tambahan saus spesial, dihidangkan sebelum atau sesudah hidangan utama"
+  },
+  {
+    "id": 6,
+    "name": "Mignardise",
+    "image": "../../assets/menu/MAccaron.jpeg",
+    "body": "Merupakan kue kecil yang disajikan sebagai hidangan penutup"
+  },
+  {
+    "id": 7,
+    "name": "Pudding",
+    "image": "../../assets/menu/Pudding.jpg",
+    "body": "Makanan manis yang disantap untuk hidangan penutup."
+  },
+  {
+    "id": 8,
+    "name": "steik daging rusa",
+    "image": "../../assets/menu/steakDagingRusa.jpg",
+    "body": "merupakan hidangan utama yang dibuat menggunakan daging rusa yang akan memanjakan lidah dengan rasa yang unik."
+  },
+  {
+    "id": 9,
+    "name": "steik salmon",
+    "image": "../../assets/menu/steakSalmon.jpg",
+    "body": "steik daging salmon dapat menjadi pilihan untuk main course karena memiliki tekstur dan rasa yang otentik."
+  }
+]
